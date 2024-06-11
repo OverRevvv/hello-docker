@@ -1,0 +1,28 @@
+{
+  "name": "hello-docker",
+  "version": "1.0.0",
+  "description": "learning docker with javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OverRevvv/hello-docker.git"
+  },
+  "keywords": [
+    "docker",
+    "nodejs",
+    "express"
+  ],
+  "author": "OverRevvv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OverRevvv/hello-docker/issues"
+  },
+  "homepage": "https://github.com/OverRevvv/hello-docker#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
